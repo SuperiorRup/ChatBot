@@ -1,10 +1,10 @@
 module.exports = {
-    token: 'KEEP_YOUR_TOKEN_SECRET',
+    token: 'NjY1OTA3OTI4NTQwMTE5MDQw.XiK4kQ.uLFbh3kSorpB_reJ85_3GDPUd8c',
     languages: {
         locales: ['en', 'ja'],
         default: 'en',
         channels: {
-            '368751492963893248': 'ja'
+            '368751492963893248': 'en'
         }
     },
     zaplist: ['173556767383355392'],
